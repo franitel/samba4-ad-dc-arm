@@ -1,4 +1,4 @@
-# build via fran build -t franitel/samba4-ad-dc .
+# build via docker build -t franitel/samba4-ad-dc .
 
 FROM ubuntu:18.04
 MAINTAINER franitel@hotmail.com
